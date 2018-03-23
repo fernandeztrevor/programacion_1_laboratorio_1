@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521748790 source:c:\users\tfernandez_mecon\desktop\ferreteconstruccion\main.c
+	<stdio.h>
+	<stdlib.h>
+
