@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522155311 source:c:\test\clase 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1522155222 source:c:\test\clase 4\funciones.c
+	"funciones.h"
+
+1522155100 c:\test\clase 4\funciones.h
+
