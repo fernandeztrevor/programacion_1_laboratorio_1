@@ -1,0 +1,8 @@
+ingresar en una variable el nombre de una persona
+en otra variable el apellido
+
+en una tercer variable, (ejemplo apellidoYNombre) que se guarde "Gomez, Juan" formato apellido coma nombre, y primeras letras mayusculas
+
+funcion que no vimos
+strlwr que convierte a minuscula
+strupr que convierte todo a mayuscula
